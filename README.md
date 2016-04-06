@@ -147,18 +147,18 @@ Complete el cuestionario
 
 Felicitaciones ya instalo phpMyfaq....!!!
 
-![Texto alternativo](myphpfaq-3.jpg "Primera pagina de myPhpfaq")
+![Texto alternativo](images/myphpfaq-3.jpg "Primera pagina de myPhpfaq")
 
 
 Ahora solo queda disfrutarlo. los siguientes link uno es para la administración y el otro para su uso cotidiano.
 http://ip-del-servidor/faq
 
-![Texto alternativo](myphpfaq.jpg "Primera pagina de myPhpfaq")
+![Texto alternativo](images/myphpfaq.jpg "Primera pagina de myPhpfaq")
 
 
 http://ip-del-servidor/faq/admin
 
-![Texto alternativo](myphpfaq-admin.jpg "Primera pagina de myPhpfaq")
+![Texto alternativo](images/myphpfaq-admin.jpg "Primera pagina de myPhpfaq")
 
 **IMPORTANTE**, siempre se debe hacer un respaldo de la base de datos.
 
