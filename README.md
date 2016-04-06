@@ -71,7 +71,9 @@ vi /var/www/html/testphp.php
 	?>
 ```
 
-Ahora en un navegador colocamos http://ip-del-servidor y debe aparecer esto:
+Ahora en un navegador colocamos http://ip-del-servidor/testphp.php y debe aparecer esto:
+
+![Texto alternativo](images/php-1.jpg "Primera pagina de myPhpfaq")
 
 #### Ahora si vamos a instalar y configurar phpMyfaq.
 
@@ -142,23 +144,23 @@ Abrimos un navegador y escribimos el siguiente link y completamos los campos, (*
 http://ip-del-servidor/faq/install/setup.php
 
 Complete el cuestionario
-![Texto alternativo](myphpfaq-1.jpg "Primera pagina de myPhpfaq")
-![Texto alternativo](myphpfaq-2.jpg "Primera pagina de myPhpfaq")
+![Texto alternativo](myphpfaq-1.jpg "Primera parte de myPhpfaq")
+![Texto alternativo](myphpfaq-2.jpg "Segunda parte de myPhpfaq")
 
 Felicitaciones ya instalo phpMyfaq....!!!
 
-![Texto alternativo](images/myphpfaq-3.jpg "Primera pagina de myPhpfaq")
+![Texto alternativo](images/myphpfaq-3.jpg "Welcome de myPhpfaq")
 
 
 Ahora solo queda disfrutarlo. los siguientes link uno es para la administración y el otro para su uso cotidiano.
 http://ip-del-servidor/faq
 
-![Texto alternativo](images/myphpfaq.jpg "Primera pagina de myPhpfaq")
+![Texto alternativo](images/myphpfaq.jpg "Inicio myPhpfaq")
 
 
 http://ip-del-servidor/faq/admin
 
-![Texto alternativo](images/myphpfaq-admin.jpg "Primera pagina de myPhpfaq")
+![Texto alternativo](images/myphpfaq-admin.jpg "Admin myPhpfaq")
 
 **IMPORTANTE**, siempre se debe hacer un respaldo de la base de datos.
 
